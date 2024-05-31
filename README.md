@@ -1,1 +1,1 @@
-$${\color{green}Side Note : slfdsjlfk}$$
+$${\color{green}Green}$$
