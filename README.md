@@ -1,1 +1,1 @@
-This is a text with <span style="color:green">blue</span> color.
+This is a text with <span style="color:#179C09">blue</span> color.
